@@ -83,7 +83,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", https://github.com/Payisun/video-stream"
+                        "🌐 Source Code", url=f"https://github.com/Payisun/video-stream"
                     )
                 ],
             ]
